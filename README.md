@@ -1,0 +1,1 @@
+Its been a while since I was in the space of Neural Networks. We are back again. Let's see if we remember everything by building an image classification neural networks from scratch without any LLMs in 2 hours
